@@ -10,7 +10,7 @@ PS：
 在此尊重一下版权：
 
 
-原作者Zihan Zhu, Songyou Peng：
+原作者Kong Xin, Liu Shikun：
 ```
 @article{kong2023vmap,
   title={vMAP: Vectorised Object Mapping for Neural Field SLAM},
