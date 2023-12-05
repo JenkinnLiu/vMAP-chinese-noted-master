@@ -1,3 +1,31 @@
+# vMAP-chinese-noted-master
+vMAP code with chinese notes 中文注释版vMAP源码
+
+### 对vMAP中的train.py、vmap.py、trainer.py、render_rays.py、model.py、loss.py、cfg.py进行了注释，适合vMAP的入门学习，里面还有我整理的Xmind思维导图供各位参考
+
+PS：
+本人为研一新生，此注释为我在源代码基础上做的学习笔记，里面包含我对vMAP的理解，研一新生能力有限，里面还有很多问题搞不清楚，还望多多包涵！
+
+
+在此尊重一下版权：
+
+
+原作者Zihan Zhu, Songyou Peng：
+```
+@article{kong2023vmap,
+  title={vMAP: Vectorised Object Mapping for Neural Field SLAM},
+  author={Kong, Xin and Liu, Shikun and Taher, Marwan and Davison, Andrew J},
+  journal={arXiv preprint arXiv:2302.01838},
+  year={2023}
+}
+@inproceedings{sucar2021imap,
+  title={iMAP: Implicit mapping and positioning in real-time},
+  author={Sucar, Edgar and Liu, Shikun and Ortiz, Joseph and Davison, Andrew J},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={6229--6238},
+  year={2021}
+}
+```
 [comment]: <> (# vMAP: Vectorised Object Mapping for Neural Field SLAM)
 
 <!-- PROJECT LOGO -->
